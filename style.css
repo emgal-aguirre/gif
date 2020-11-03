@@ -1,0 +1,29 @@
+body {
+    font-family: 'IBM Plex Mono', monospace;
+}
+.plum {
+    margin: 10;
+}
+
+.btn {
+    padding-left: 5;
+}
+
+.container-sm {
+    background-color: #ffc6ff;
+}
+
+mark {
+   background-color: white;
+   font-size: 39px;
+   border-radius: 15px;
+}
+
+.btn {
+    background-color: white;
+   
+}
+
+p {
+    font-weight: lighter;
+}
